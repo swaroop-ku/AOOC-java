@@ -1,0 +1,30 @@
+Soil pH: 7
+Crop: Maize (Basic soil)
+    • Soil Type: Fertile, well-drained soil
+    • Water Requirement: Moderate
+    • Growth Time: 3 to 4 months
+    • Climate: Warm and sunny
+    • Fertilizer Need: High nitrogen needed
+    • Harvesting: When husks turn brown
+---------------------------
+Soil pH: 6
+No suitable crop found.
+---------------------------
+Soil pH: 6.8
+Crop: Maize (Basic soil)
+    • Soil Type: Fertile, well-drained soil
+    • Water Requirement: Moderate
+    • Growth Time: 3 to 4 months
+    • Climate: Warm and sunny
+    • Fertilizer Need: High nitrogen needed
+    • Harvesting: When husks turn brown
+---------------------------
+Soil pH: 8
+Crop: Sugarcane (Basic soil)
+    • Soil Type: Fertile, well-drained basic soil
+    • Water Requirement: Very high
+    • Growth Time: 10 to 18 months
+    • Climate: Hot and sunny
+    • Fertilizer Need: Rich in nitrogen and potassium
+    • Harvesting: When stalks are firm
+---------------------------
